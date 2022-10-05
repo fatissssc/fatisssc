@@ -12,7 +12,7 @@
 
 - 📝 Regularmente escribo artículos en [https://instagram.com/fatisssssc?igshid=YmMyMTA2M2Y=](https://instagram.com/fatisssssc?igshid=YmMyMTA2M2Y=)
 
-Power Bi** - 📫 Cómo contactarme **faticamacho26@gmail.com**
+- 📫 Cómo contactarme **faticamacho26@gmail.com**
 
 - ⚡ Dato curioso **Soy bailarina**
 
