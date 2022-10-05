@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=fatisssc" alt="fatisssc" /></ a> </p>
 
-- 🔭 Soy Beta Microsoft Learn Student Ambassador @mlsa-latam   **Fundador de la comunidad Nopalitotech**
+- 🔭 Soy Beta Microsoft Learn Student Ambassador @mlsa-latam   Fundador de la comunidad Nopalitotech
 
 - 🌱 Actualmente estoy aprendiendo **IoT, Data scients,Power Bi**
 
